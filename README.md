@@ -11,12 +11,14 @@
 
 ## Platform Extensions
 
+```
 // FancyButton.android.js
 // FancyButton.ios.js
 
 import FancyButton from './FancyButton'
 // if ios: use FancyButton.ios.js
 // if android: use FancyButton.android.js
+```
 
 ## Boilerplates
 
