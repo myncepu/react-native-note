@@ -20,9 +20,9 @@ import FancyButton from './FancyButton'
 
 ## Boilerplates
 
-[Snowflake](https://github.com/bartonhammond/snowflake)
-[Pepperoni](http://getpepperoni.com)
-[Ignite](https://infinite.red/ignite)
+- [Snowflake](https://github.com/bartonhammond/snowflake)
+- [Pepperoni](http://getpepperoni.com)
+- [Ignite](https://infinite.red/ignite)
 
 ## Resources
 
