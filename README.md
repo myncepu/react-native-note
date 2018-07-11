@@ -20,9 +20,9 @@ import FancyButton from './FancyButton'
 
 ## Boilerplates
 
-- [Snowflake](https://github.com/bartonhammond/snowflake)
-- [Pepperoni](http://getpepperoni.com)
-- [Ignite](https://infinite.red/ignite)
+- [Snowflake](https://github.com/bartonhammond/snowflake) A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+- [Pepperoni](http://getpepperoni.com) React Native App Starter Kit for Android and iOS
+- [Ignite](https://infinite.red/ignite) The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
 ## Resources
 
