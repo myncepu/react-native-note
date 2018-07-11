@@ -34,6 +34,7 @@ import FancyButton from './FancyButton'
 
 ### GraphQL file structure
 
+```
 src
 ├── Components
 └── Graphql
@@ -42,3 +43,4 @@ src
     ├── QueryAllEvent.js
     ├── QueryGetEvent.js
     └── SubscriptionEventComment.js
+```
