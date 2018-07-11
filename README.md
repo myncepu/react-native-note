@@ -28,7 +28,7 @@ import FancyButton from './FancyButton'
 
 ## Resources
 
-[Awesome React Native components, news, tools, and learning material!](http://www.awesome-react-native.com)
+Awesome React Native [Awesome React Native components, news, tools, and learning material!](http://www.awesome-react-native.com)
 
 ## GraphQL
 
