@@ -37,7 +37,7 @@ Awesome React Native [Awesome React Native components, news, tools, and learning
 ```
 src
 ├── Components
-└── Graphql
+└── GraphQL
     ├── MutationCreateEvent.js
     ├── MutationDeleteEvent.js
     ├── QueryAllEvent.js
