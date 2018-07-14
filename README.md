@@ -9,6 +9,16 @@
   - == coerces the types
   - === requires equivalent types
 
+## Debug
+
+We can add ```debugger``` in code to add a breakpoint
+
+```
+funcA()
+debugger  // Add a breakpoint
+funcB()
+```
+
 ## Platform Extensions
 
 ```
